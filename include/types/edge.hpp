@@ -1,6 +1,8 @@
 #ifndef NET5_EDGE_HPP
 #define NET5_EDGE_HPP
 
+#include "id.hpp"
+
 typedef struct {
     ID id;
     ID from;

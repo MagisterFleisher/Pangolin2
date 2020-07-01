@@ -3,6 +3,8 @@
 #include <vector>
 #include <memory>
 
+#include "node.hpp"
+
 // typedef Nodelist std::vector<std::unique_ptr<Node>>;
 
 typedef Nodelist std::vector<Node>;
