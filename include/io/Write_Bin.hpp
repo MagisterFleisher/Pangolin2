@@ -1,0 +1,6 @@
+#ifndef NET5_WRITE_BIN_HPP
+#define NET5_WRITE_BIN_HPP
+
+
+
+#endif//NET5_WRITE_BIN_HPP

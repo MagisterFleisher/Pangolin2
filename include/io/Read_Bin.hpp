@@ -1,0 +1,6 @@
+#ifndef NET5_READ_BIN_HPP
+#define NET5_READ_BIN_HPP
+
+
+
+#endif//NET5_WRITE_CSV_HPP

@@ -1,6 +1,7 @@
 #ifndef NET5_GRAPHMETRICS_HPP
 #define NET5_GRAPHMETRICS_HPP
 
+#include <unordered_map>
 #include "id.hpp"
 
 typedef struct{ std::unordered_map<ID,std::uint64_t> simple_degree;
@@ -30,5 +31,5 @@ typedef struct{ std::unordered_map<ID,std::uint64_t> simple_degree;
                 std::uint64_t density;
                 std::uint64_t radius;
                 std::uint64_t circumfirance;
-                }   GraphMetrics;
+                }  GraphMetrics;
 #endif//NET5_GRAPHMETRICS_HPP

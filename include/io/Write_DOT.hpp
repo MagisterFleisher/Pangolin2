@@ -1,0 +1,6 @@
+#ifndef NET5_WRITE_DOT_HPP
+#define NET5_WRITE_DOT_HPP
+
+
+
+#endif//NET5_WRITE_CSV_HPP
